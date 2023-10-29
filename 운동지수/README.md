@@ -1,4 +1,4 @@
-# 운동지수 프로젝트
+# 운동지수 프로젝트.
 
 ![image](https://github.com/dydrb/team_prj/assets/105268330/53cb2926-0069-4a09-9eae-9394f5dbc20f)
 
